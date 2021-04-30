@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cat10847!
 - 👀 I’m interested in HTML, Scratch, and more!
-- 🌱 I’m currently learning HTML. Blame me for poor websites.
+- 🌱 I’m currently learning HTML and JavaScript. Blame me for poor websites.
 - 😀 Sometimes, I like styling my text like JavaScript.
 - 🔧 My sites for projects are down below.
 
